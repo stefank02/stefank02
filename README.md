@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Stefan Kichukov
 
-<!--
-**stefank02/stefank02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer learning and building cool things one step at a time.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Yocto
+- BitBake
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Build real-world projects
+- Contribute to open source
+- Grow as a developer
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/stefan-kichukov-6a635024a/))
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:stefan.kichukov02@gmail.com)
