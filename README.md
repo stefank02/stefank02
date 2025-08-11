@@ -13,5 +13,5 @@ I'm a beginner developer learning and building cool things one step at a time.
 - Grow as a developer
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/stefan-kichukov-6a635024a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-kichukov-6a635024a/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:stefan.kichukov02@gmail.com)
