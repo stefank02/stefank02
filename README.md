@@ -6,7 +6,7 @@ I'm a beginner developer learning and building cool things one step at a time.
 - Yocto
 - BitBake
 - Python
-- Linyux Bash 
+- Linux Bash
 
 ## 🚀 Goals
 - Build real-world projects
