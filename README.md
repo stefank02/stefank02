@@ -5,7 +5,8 @@ I'm a beginner developer learning and building cool things one step at a time.
 ## 🌱 Currently Learning
 - Yocto
 - BitBake
-- FastApi
+- Python
+- Linyux Bash 
 
 ## 🚀 Goals
 - Build real-world projects
