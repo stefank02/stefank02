@@ -3,8 +3,8 @@
 I'm a beginner developer learning and building cool things one step at a time.
 
 ## 🌱 Currently Learning
-- Yocto
-- BitBake
+- Google SDK
+- Java
 - Python
 - Linux Bash
 
